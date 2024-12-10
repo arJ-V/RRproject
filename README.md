@@ -58,14 +58,14 @@ date-fns - Date manipulation
 ## 📦 Project Structure
 my-app/
 ├── src/
-│   ├── components/
-│   │   ├── KYCForm.jsx         # Main form container
-│   │   └── steps/              # Form steps
-│   │       ├── ContactForm.jsx
-│   │       ├── DocumentUpload.jsx
-│   │       ├── IdentityForm.jsx
-│   │       └── ReviewForm.jsx
-│   ├── data/
-│   │   └── countries.js        # Countries data
-│   └── App.js                  # Root component
+│ ├── components/
+│ │ ├── KYCForm.jsx # Main form container
+│ │ └── steps/ # Form steps
+│ │ ├── ContactForm.jsx
+│ │ ├── DocumentUpload.jsx
+│ │ ├── IdentityForm.jsx
+│ │ └── ReviewForm.jsx
+│ ├── data/
+│ │ └── countries.js # Countries data
+│ └── App.js # Root component
 
